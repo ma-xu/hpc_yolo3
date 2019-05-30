@@ -14,7 +14,7 @@ Donated by Xu Ma, xuma@my.unt.edu.
 
 ## Examples
 
-<img src="https://github.com/13952522076/hpc_yolo3/blob/master/Images/images/IOT1.jpg" width="375",height="400" align=center />
+![](./Images/images/IOT1.jpg =100x100)
 
 
 
