@@ -61,12 +61,15 @@ Donated by Xu Ma, xuma@my.unt.edu.
    upload collected images to 'Images/images/' folder.
   
    
+   Edit 'run_test.sh', change demo@my.unt.edu to your email,  username to hpc username, YOURNAME to your name.
+   
+   
    
    Run SLURM job 'run_test.sh' by
    ```
    sbatch run_test.sh
    ```
-   After this, 
-   you will 
+   After this, you will see your job id, like 999444. A few seconds latter, a log file will generated, named as hpc_999444.log.
+   
 
 
