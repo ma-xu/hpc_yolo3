@@ -33,5 +33,6 @@ Donated by Xu Ma, xuma@my.unt.edu.
    ```
    scp /download/yolo.h5 username@talon3.hpc.unt.edu:/home/Jacob/hpc_yolo3/model_data
    ```
-   
+   Remember 1). change the local path to yolo.h5 file, and change the 2) username, 3)Jacob.
+   3 modifications on this command.
 
