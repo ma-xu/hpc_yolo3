@@ -62,10 +62,11 @@ Donated by Xu Ma, xuma@my.unt.edu.
   
    
    
-   Test 'run_test.sh' by
+   Run SLURM job 'run_test.sh' by
    ```
    sbatch run_test.sh
    ```
-   
+   After this, 
+   you will 
 
 
