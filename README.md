@@ -18,10 +18,10 @@ Donated by Xu Ma, xuma@my.unt.edu.
 
 ## Install
 
-1. Load into UNT HPC sever: 
+1. Login UNT HPC sever: 
   ```ssh username@talon3.hpc.unt.edu```.
   
-2. Make a empty folder using your name. For example, 
+2. Make an empty folder using your name. For example, 
   ```mkdir Jacob ```.
 3. ```cd Jacob```.
 
