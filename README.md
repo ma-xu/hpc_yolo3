@@ -71,5 +71,9 @@ Donated by Xu Ma, xuma@my.unt.edu.
    ```
    After this, you will see your job id, like 999444. A few seconds latter, a log file will generated, named as hpc_999444.log.
    
+   Once filed or completed, you will get an email. 
+   
+   Detected images will be in Images/results. Detected information will be in Images/outputs.
+   
 
 
