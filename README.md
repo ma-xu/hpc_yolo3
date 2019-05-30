@@ -4,7 +4,7 @@
 
 ## Introduction
 
-A keras (tensorflow backend) implement of [YOLOV3](https://arxiv.org/abs/1804.02767) (2D image object detection) for **UNT REU2018 PROJECT**.
+A keras (tensorflow backend) implement of [YOLOV3](https://arxiv.org/abs/1804.02767) (2D image object detection) for **UNT REU2019 PROJECT**.
 
 Donated by Xu Ma, xuma@my.unt.edu.
 
