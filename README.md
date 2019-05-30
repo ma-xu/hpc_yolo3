@@ -22,9 +22,11 @@ Donated by Xu Ma, xuma@my.unt.edu.
 2. Make a empty folder using your name. For example, 
   ```mkdir Jacob ```.
 3. ```cd Jacob```.
-4. Down hpc_yolo3 project.
+4. Download hpc_yolo3 project.
    ```
    git install https://github.com/13952522076/hpc_yolo3.git
    ```
    Make sure you download the project in your name folder.
+5. Download weight to local computer: [yolo.h5](https://drive.google.com/open?id=15CpTnn_uAoJf4h4sxrFGfs1E9Ak7cXqs)
+   
 
