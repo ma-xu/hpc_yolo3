@@ -21,7 +21,7 @@ Donated by Xu Ma, xuma@my.unt.edu.
 1. Login UNT HPC sever: 
   ```ssh username@talon3.hpc.unt.edu```.
   
-2. Make an empty folder using your name. For example, 
+2. Create a new folder using your name. For example, 
   ```mkdir Jacob ```.
 3. ```cd Jacob```.
 
