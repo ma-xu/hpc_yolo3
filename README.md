@@ -14,8 +14,6 @@ Donated by Xu Ma, xuma@my.unt.edu.
 
 ## Examples
 
-![example](https://github.com/13952522076/hpc_yolo3/blob/master/Images/results/result_IOT1.PNG){:height="50%" width="50%"}
+![example](https://github.com/13952522076/hpc_yolo3/blob/master/Images/results/result_IOT1.PNG)
 
-
-
-![image](https://github.com/13952522076/hpc_yolo3/blob/master/Images/results/result_IOT1.PNG {width=40px height=400px})
+<img src="https://github.com/13952522076/hpc_yolo3/blob/master/Images/results/result_IOT1.PNG" height="24">
