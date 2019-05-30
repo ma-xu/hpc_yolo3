@@ -35,7 +35,7 @@ Donated by Xu Ma, xuma@my.unt.edu.
    
    Copy the downloaded yolo.h5 file to hpc sever 'Jacob/hpc_yolo3/model_data' folder using scp.
    
-   In a new terminal.
+   (Only this step is in a new terminal.)
    ```
    scp /download/yolo.h5 username@talon3.hpc.unt.edu:/home/Jacob/hpc_yolo3/model_data
    ```
@@ -43,7 +43,15 @@ Donated by Xu Ma, xuma@my.unt.edu.
    
    3 modifications on this command.
 
-6. 
+6. remove all files in 'Images/results' and 'Images/outputs'.
+   ```
+    rm Images/results/*
+    rm Images/outputs/*
+   ```
+   Test 'run_test.sh' by
+   ```
+   sbatch run_test.sh
+   ```
    
 
 
