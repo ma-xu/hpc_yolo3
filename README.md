@@ -28,5 +28,9 @@ Donated by Xu Ma, xuma@my.unt.edu.
    ```
    Make sure you download the project in your name folder.
 5. Download weight to local computer: [yolo.h5](https://drive.google.com/open?id=15CpTnn_uAoJf4h4sxrFGfs1E9Ak7cXqs)
+   copy the downloaded yolo.h5 file to hpc sever `Jacob/hpc_yolo3/model_data` folder using scp.
+   ```
+   scp /download/yolo.h5 username@talon3.hpc.unt.edu:/home/Jacob/hpc_yolo3/model_data
+   ```
    
 
