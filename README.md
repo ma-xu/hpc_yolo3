@@ -43,11 +43,24 @@ Donated by Xu Ma, xuma@my.unt.edu.
    
    3 modifications on this command.
 
-6. remove all files in 'Images/results' and 'Images/outputs'.
+6. You can have a look at Images folder, which includes 3 subfoloder. 
+   
+       images: the coolected image data.
+   
+       outputs: the detected labels, confidence, coordinate
+   
+       results: resulted detection images.
+
+7. Remove all files in this three folders. Do not delete the folders.
    ```
     rm Images/results/*
     rm Images/outputs/*
+    rm Images/images/*
    ```
+   
+  
+   
+   
    Test 'run_test.sh' by
    ```
    sbatch run_test.sh
