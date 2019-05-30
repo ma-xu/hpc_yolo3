@@ -45,11 +45,11 @@ Donated by Xu Ma, xuma@my.unt.edu.
 
 6. You can have a look at Images folder, which includes 3 subfoloder. 
    
-       images: the coolected image data.
+      images: the coolected image data.
    
-       outputs: the detected labels, confidence, coordinate
+      outputs: the detected labels, confidence, coordinate
    
-       results: resulted detection images.
+      results: resulted detection images.
 
 7. Remove all files in this three folders. Do not delete the folders.
    ```
@@ -58,6 +58,7 @@ Donated by Xu Ma, xuma@my.unt.edu.
     rm Images/images/*
    ```
    
+   upload collected images to 'Images/images/' folder.
   
    
    
