@@ -17,9 +17,14 @@ Donated by Xu Ma, xuma@my.unt.edu.
 <img src="https://github.com/13952522076/hpc_yolo3/blob/master/Images/results/result_111.PNG" height="300">
 
 ## Install
-1. load into UNT HPC sever: 
+1. Load into UNT HPC sever: 
   ```ssh username@talon3.hpc.unt.edu```.
-2. make a empty folder using your name. For example, 
+2. Make a empty folder using your name. For example, 
   ```mkdir Jacob ```.
 3. ```cd Jacob```.
+4. Down hpc_yolo3 project.
+   ```
+   git install https://github.com/13952522076/hpc_yolo3.git
+   ```
+   Make sure you download the project in your name folder.
 
