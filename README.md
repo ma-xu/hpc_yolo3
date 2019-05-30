@@ -13,7 +13,8 @@ Donated by Xu Ma, xuma@my.unt.edu.
 **UNT HPC environment**, which includes python3, tensorflow, keras, numpy ...
 
 ## Examples
-![image](https://github.com/13952522076/hpc_yolo3/blob/master/Images/images/IOT1.jpg)
+
+<img src="https://github.com/13952522076/hpc_yolo3/blob/master/Images/images/IOT1.jpg" width="375",height="400">
 
 
 
