@@ -21,5 +21,5 @@ Donated by Xu Ma, xuma@my.unt.edu.
   ```ssh username@talon3.hpc.unt.edu```.
 2. make a empty folder using your name. For example, 
   ```mkdir Jacob ```.
-3. 
+3. ```cd Jacob```.
 
