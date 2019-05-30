@@ -51,7 +51,7 @@ Donated by Xu Ma, xuma@my.unt.edu.
    
       results: resulted detection images.
 
-7. Remove all files in this three folders. Do not delete the folders.
+7. Remove all files in these three folders. Do not delete the folders.
    ```
     rm Images/results/*
     rm Images/outputs/*
