@@ -14,6 +14,10 @@ Donated by Xu Ma, xuma@my.unt.edu.
 
 ## Examples
 
-
-
 <img src="https://github.com/13952522076/hpc_yolo3/blob/master/Images/results/result_111.PNG" height="300">
+
+## Install
+1. load into UNT HPC sever: `ssh username@talon3.hpc.unt.edu`.
+2. make a empty folder using your name. For example, `mkdir Jacob `.
+3.
+
