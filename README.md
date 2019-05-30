@@ -45,7 +45,7 @@ Donated by Xu Ma, xuma@my.unt.edu.
 
 6. You can have a look at Images folder, which includes 3 subfoloder. 
    
-      images: the coolected image data.
+      images: the collected image data.
    
       outputs: the detected labels, confidence, coordinate
    
