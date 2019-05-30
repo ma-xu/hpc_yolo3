@@ -14,10 +14,7 @@ Donated by Xu Ma, xuma@my.unt.edu.
 
 ## Examples
 
-![](https://github.com/13952522076/hpc_yolo3/blob/master/Images/images/IOT1.jpg =100x100)
-
-
-
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 
 
