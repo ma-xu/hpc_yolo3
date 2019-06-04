@@ -69,7 +69,7 @@ Created by Xu Ma, xuma@my.unt.edu.
    ```
    sbatch run_test.sh
    ```
-   After this, you will see your job id, like 999444. A few seconds latter, a log file will generated, named as hpc_999444.log.
+   After this, you will see your job id, like 999444. A few seconds later, a log file will generated, named as hpc_999444.log.
    
    Once filed or completed, you will get an email. 
    
