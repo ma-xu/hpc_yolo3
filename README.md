@@ -37,9 +37,9 @@ Created by Xu Ma, xuma@my.unt.edu.
    
    (Only this step is in a new terminal.)
    ```
-   scp /download/yolo.h5 username@talon3.hpc.unt.edu:/home/Jacob/hpc_yolo3/model_data
+   scp /download/yolo.h5 username@talon3.hpc.unt.edu:/home/username/Jacob/hpc_yolo3/model_data
    ```
-   Remember 1). change the local path to yolo.h5 file, and change the 2) username, 3)Jacob.
+   Remember 1). change the local path to yolo.h5 file, and change the 2) username <sub>2 times</sub>, 3)Jacob.
    
    3 modifications on this command.
 
