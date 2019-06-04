@@ -27,7 +27,7 @@ Created by Xu Ma, xuma@my.unt.edu.
 
 4. Download hpc_yolo3 project.
    ```
-   git install https://github.com/13952522076/hpc_yolo3.git
+   git clone https://github.com/13952522076/hpc_yolo3.git
    ```
    Make sure you download the project in your name folder.
    
